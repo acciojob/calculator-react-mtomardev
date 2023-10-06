@@ -1,0 +1,29 @@
+.calculatorDiv{
+    height: 220px;
+    width: 280px;
+}
+
+.inputDiv{
+    height: 40px;
+    width: 276px;
+    background-color: black;
+    border: none;
+    color: lightblue;
+    outline: none;
+    text-align: right;
+    font-size: 1.2rem;
+    
+}
+table{
+    border-spacing: 0;
+}
+.btn{
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    font-size: 1.2rem;
+    background-color: #CAD2C5;
+    border: 1px solid #a8a8a7;
+    cursor: pointer;
+    
+}
